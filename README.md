@@ -14,7 +14,7 @@
 
    
 <h4>
-    <a href="https://twitter.com/techcifer">TWITTER</a>
+    <a href="https://x.com/techcifer">𝕏</a>
   <span> · </span>
     <a href="https://www.instagram.com/cifertech/">INSTAGRAM</a>
   <span> · </span>
@@ -158,7 +158,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ▶ Support me on Patreon [patreon.com/cifertech](https://www.patreon.com/cifertech)
 
-CiferTech - [@twitter](https://twitter.com/techcifer) - CiferTech@gmali.com
+CiferTech - [@𝕏](https://x.com/techcifer) - CiferTech@gmali.com
 
 Project Link: [https://github.com/cifertech/nRFBOX](https://github.com/cifertech/nrfbox)
 
